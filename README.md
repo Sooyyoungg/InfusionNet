@@ -20,6 +20,6 @@ Our InfusionNet learns how to preserve the content from the content image and ex
 
 ### Octave Analysis
 <p align="center"><img width="870" alt="Octave Analysis" src="https://user-images.githubusercontent.com/43199011/230909819-4e2e6102-c618-4546-b6cc-cd85a9667131.png"></p>       
-__Left:__ Our InfusionNet divides the images into two frequency ranges and their information is complementary. 
+__Left:__ Our InfusionNet divides the images into two frequency ranges and learns to make their information complementary. The ratio of high frequency and low frequency means how many channels each frequency information is expressed in the channels of the feature map. We can select the ratio of high frequency and low frequency, and this is the result of the experiment. **Right:**  Our model can visualize the frequency information of the style transfered output images from the last layer in generator. High and low frequency images express well divied and complementary information of the output images.
 
 ## Style Mixing

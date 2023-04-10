@@ -6,8 +6,9 @@ InfusionNet: A lightweight Structure-Aware Neural Style Transfer via Feature Dec
 
 
 ## Model Architecture
-<img width="1054" alt="Model" src="https://user-images.githubusercontent.com/43199011/230831057-0a65e2f6-0649-468f-b955-96a087419bdc.png">           
-![AdaOctConv 2](https://user-images.githubusercontent.com/43199011/230831143-8ea33c84-d5e7-4b26-9203-4a7b9a727f8f.png)
+<img width="1054" alt="Model" src="https://user-images.githubusercontent.com/43199011/230831057-0a65e2f6-0649-468f-b955-96a087419bdc.png">       
+<img width="1090" alt="AdaOctConv" src="https://user-images.githubusercontent.com/43199011/230831311-5d781138-3eb5-4493-b37a-3a2b75fb1bfe.png">
+
 ## Style Transfer
 
 

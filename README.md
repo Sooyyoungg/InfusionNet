@@ -15,7 +15,7 @@ __InfusonNet__ is an autoencoder model consisting of content encoder, style enco
 ## Style Transfer
 ### Main Result
 <p align="center"><img width="366" alt="results" src="https://user-images.githubusercontent.com/43199011/230908475-2b47763f-5d12-425a-8c69-551052bf291b.png"></p>     
-- Dataset: COCO for content / WikiArt for style   \n
+- Dataset: COCO for content / WikiArt for style  <br>
 Our InfusionNet learns how to preserve the content from the content image and extract the style information from the style image at each encoder. In each row, first column images are style images, second column images are content images and third column are our style transfered output images. Results images contain the important content features and also reflect the style. Our InfusionNet generates stylistic images.
 
 ### Octave Analysis

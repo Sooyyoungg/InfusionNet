@@ -2,7 +2,7 @@
 Official Pytorch code for the paper:        
 InfusionNet: A lightweight Structure-Aware Neural Style Transfer via Feature Decomposition (working title)
 
-### Authors
+Authors:       
 - 김수영 (Sooyoung Kim; rlatndud0513@snu.ac.kr) Graduate school student at Seoul National University
 - 권준우 (Joonwoo Kwon; pioneers@snu.ac.kr) Graduate school student at Seoul National University
 

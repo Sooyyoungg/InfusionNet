@@ -14,6 +14,11 @@ InfusonNet is an autoencoder model consisting of content encoder, style encoder 
 Adaptive Convolution is used for style transfer with Octave Convolution.
 
 ## Style Transfer
-
+### Main Result
+<img width="366" alt="results" src="https://user-images.githubusercontent.com/43199011/230908475-2b47763f-5d12-425a-8c69-551052bf291b.png">
+### Octave Analysis
+<img width="446" alt="Octave" src="https://user-images.githubusercontent.com/43199011/230908654-5be680ba-c684-4f59-ba38-a09bd8384077.png">
+### Octave Result
+<img width="630" alt="Octave_version" src="https://user-images.githubusercontent.com/43199011/230908626-5017e43f-3211-4a6e-b3d8-a7fc5e0194cf.png">
 
 ## Style Mixing

@@ -1,6 +1,7 @@
 # InfusionNet
 Official Pytorch code for the paper:        
-**InfusionNet: A lightweight Structure-Aware Neural Style Transfer via Feature Decomposition** (working title)
+**InfusionNet: A lightweight Structure-Aware Neural Style Transfer via Feature Decomposition** (working title)            <br><br>
+Notion: https://swimming-whale.notion.site/InfusionNet-A-lightweight-Structure-Aware-Neural-Style-Transfer-via-Feature-Decomposition-f991f501d9554c30861bfd9859f6e38a 
 
 Authors:       
 - 김수영 (Sooyoung Kim; rlatndud0513@snu.ac.kr) Graduate school student at Seoul National University (co-first author & corresponding author)
@@ -28,5 +29,4 @@ Our InfusionNet learns how to preserve the content from the content image and ex
 <p align="center"><img width="527" alt="loss_2" src="https://user-images.githubusercontent.com/43199011/230916397-064288ca-0308-4d8b-ace2-fd8b9a86a971.png"></p>
 We try perceptual loss with VGG and EFDM and use EFDM for contrastive learning which is the first try. For contrastive loss, we use the nearest 1, 3, and 7 images to find the appropriate number of the compared images. We compare the learning results for each loss and decide the 'EFDM Perceptual loss + Contrastive loss with 3 images' as best result.
 
-## Style Mixing
 
